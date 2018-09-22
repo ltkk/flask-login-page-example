@@ -21,4 +21,4 @@ python app.py
 
 ```
 # Screenshot
-![Flask python login page example](https://nguyenvanhieu.vn/wp-content/uploads/2018/09/flask-login-page-example-1.png)
+![](https://nguyenvanhieu.vn/wp-content/uploads/2018/09/flask-login-page-example-1.png)
